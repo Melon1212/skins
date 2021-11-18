@@ -1,2 +1,2 @@
 # skins
-Skins I used
+Skins I used in osu
